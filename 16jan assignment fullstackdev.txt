@@ -1,0 +1,11 @@
+1 User Interface (UI) and User Experience (UX) are two distinct but interconnected concepts in the field of design, specifically in the realm of digital products and services.
+
+UI, which stands for User Interface, refers to the visual and interactive elements that users engage with when using a product or service. It encompasses the overall look and feel, including the design of buttons, menus, icons, color schemes, typography, and layout. UI designers focus on creating an aesthetically pleasing and user-friendly interface that facilitates efficient and intuitive interactions between the user and the system.
+
+2 A frontend developer is a professional who specializes in the development of the user-facing side of a website or web application. They are responsible for creating the visual and interactive elements that users see and interact with directly.
+
+3 A backend developer is a professional who focuses on the server-side development of a website, web application, or software system. They work behind the scenes to build and maintain the logic, databases, and infrastructure that power the frontend of a digital product.
+
+4  github account :kalelaxmikanth
+   linkedin account:kale laxmikanth
+   
